@@ -134,11 +134,11 @@ ps:看到App running at:Local: http://localhost:9528代表项目启动成功。�
 
 	![pic2](./pic/pic4.png)
 
-	<img src="./pic/pic5.png" alt="pic2" style="zoom:120%;" /><img src="./pic/pic6.png" alt="pic2" style="zoom:67%;" />
+	<img src="./pic/pic5.png" style="width:40%;" /><img src="./pic/pic6.png" style="width:40%;" />
 
-	<img src="./pic/pic7.png" alt="pic2" style="zoom:67%;" /><img src="./pic/pic8.png" alt="pic2" style="zoom:67%;" />
+	<img src="./pic/pic7.png" style="width:40%;" /><img src="./pic/pic8.png" style="width:40%;" />
 
-	<img src="./pic/pic9.png" alt="pic2" style="zoom: 84%;" /><img src="./pic/pic10.png" alt="pic2" style="zoom:67%;" />   
+	<img src="./pic/pic9.png" style="width:40%;" /><img src="./pic/pic10.png" style="width:40%;" />   
 
 # 四.参考学习资料：
 
