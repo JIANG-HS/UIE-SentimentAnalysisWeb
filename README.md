@@ -156,3 +156,9 @@ ps:看到App running at:Local: http://localhost:9528代表项目启动成功。�
 
 
 
+参考项目： 
+1. [基于PaddleNLP的属性级情感分析Web系统](https://aistudio.baidu.com/aistudio/projectdetail/5060618)
+2. [基于UIE的情感分析技术开源，小样本能力强悍！助力评论洞察与舆情分析](https://aistudio.baidu.com/aistudio/projectdetail/5318177)
+
+
+

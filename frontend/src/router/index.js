@@ -82,7 +82,7 @@ export const constantRoutes = [
     component: Layout,
     children: [
       {
-        path: 'https://github.com/hchhtc123/AttributeLevel-EmotionAnalysis-WebSystem',
+        path: 'https://github.com/JIANG-HS/UIE-SentimentAnalysisWeb',
         meta: { title: '跳转Github', icon: 'link' }
       }
     ]
