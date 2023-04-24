@@ -199,7 +199,10 @@ async def BatchEmotionAnalysis(file: UploadFile):
         aspect_sentiment_hist_x_data = []
         aspect_sentiment_positives = []
         aspect_sentiment_negatives = []
+        keep_aspects = set(sr.descend_aspects[:15])
         for aspect, sentiment in sr.aspect_sentiment.items():
+            if aspect not in keep_aspects:
+                continue
             aspect_sentiment_hist_x_data.append(aspect)
             if "正向" in sentiment:
                 aspect_sentiment_positives.append(sentiment["正向"])

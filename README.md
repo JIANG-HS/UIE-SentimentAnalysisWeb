@@ -124,21 +124,23 @@ ps:看到App running at:Local: http://localhost:9528代表项目启动成功。�
 
 1. 单文本情感分析：单文本情感分析界面输入框内输入要进行情感分析的文本，点击情感分析按钮进行情感分析预测。
 
-	![pic2](./pic/pic2.png)
+  ![pic2](./pic/pic2.png)
 
 2. 批量文本情感分析：批量文本情感分析界面选择要上传的txt文件。 选择上传文件后点击情感分析按钮进行批量情感分析预测。
 
-	![pic2](./pic/pic3.png)
+  **注意：！！！！！！！！！！！！！ 批量文本分析的txt文本的末尾不能有空行 ！！！！！！！**
+
+  ![pic2](./pic/pic3.png)
 
 3. 分析结果可视化：一共有六种可视化图形，分别为：“属性频率词云图”、”属性频率柱状图”、”属性+观点词云图”、”属性+观点柱状图”、”属性+情感词云图”和”属性+情感柱状图”
 
-	![pic2](./pic/pic4.png)
+  ![pic2](./pic/pic4.png)
 
-	<img src="./pic/pic5.png" style="width:40%;" /><img src="./pic/pic6.png" style="width:40%;" />
+  <img src="./pic/pic5.png" style="width:40%;" /><img src="./pic/pic6.png" style="width:40%;" />
 
-	<img src="./pic/pic7.png" style="width:40%;" /><img src="./pic/pic8.png" style="width:40%;" />
+  <img src="./pic/pic7.png" style="width:40%;" /><img src="./pic/pic8.png" style="width:40%;" />
 
-	<img src="./pic/pic9.png" style="width:40%;" /><img src="./pic/pic10.png" style="width:40%;" />   
+  <img src="./pic/pic9.png" style="width:40%;" /><img src="./pic/pic10.png" style="width:40%;" />   
 
 # 四.参考学习资料：
 
